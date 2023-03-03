@@ -1,5 +1,4 @@
 fastapi
-pickle
 pydantic
 pandas
 streamlit

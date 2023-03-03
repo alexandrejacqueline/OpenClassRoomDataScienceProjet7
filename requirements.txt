@@ -59,13 +59,7 @@ colorama==0.4.1
 colorlog==6.7.0
 colorlover==0.3.0
 commonmark==0.9.1
-conda==4.13.0
-conda-build==3.18.9
-#conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
-#conda-package-handling @ file:///opt/concourse/worker/volumes/live/d106838d-eaa7-40fd-5437-9d95a7db5458/volume/conda-package-handling_1618262135990/work
-#conda-repo-cli @ file:///tmp/build/80754af9/conda-repo-cli_1620168426516/work
-#conda-token @ file:///tmp/build/80754af9/conda-token_1620076980546/work
-conda-verify==3.4.2
+handling_1618262135990/work
 confection==0.0.3
 configparser==5.0.2
 constantly==15.1.0
@@ -197,43 +191,11 @@ jmespath==0.10.0
 joblib==1.2.0
 json5==0.8.5
 jsonschema==3.0.2
-jupyter==1.0.0
-jupyter-console==6.0.0
-jupyter_client==7.4.7
-jupyter_core==4.11.2
-jupyterlab==1.1.4
-jupyterlab-pygments==0.2.2
-jupyterlab-server==1.0.6
-kaggle==1.5.12
-kats==0.1.0
-keras==2.11.0
-Keras-Preprocessing==1.1.2
-keyring==18.0.0
-keyrings.alt==4.1.0
-kiwisolver==1.1.0
-kmodes==0.12.2
-korean-lunar-calendar==0.2.1
-langcodes==3.3.0
-lazy-object-proxy==1.4.2
-Levenshtein==0.20.8
-libarchive-c==2.8
-libclang==14.0.6
-lief==0.9.0
+
 lightgbm==3.3.5
 lime==0.2.0.1
 llvmlite==0.36.0
-locket==0.2.0
-lockfile==0.12.2
-LunarCalendar==0.0.9
-lxml==4.6.1
-Mako==1.2.4
-Markdown==3.3.4
-markdown-it-py==2.1.0
-MarkupSafe==2.1.1
 matplotlib==3.5.2
-mca==1.0.3
-mccabe==0.6.1
-mdurl==0.1.2
 missingno==0.5.0
 mistune==2.0.4
 mkl-fft==1.0.14

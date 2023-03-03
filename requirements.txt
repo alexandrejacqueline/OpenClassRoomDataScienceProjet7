@@ -8,7 +8,7 @@ anaconda-client==1.7.2
 anaconda-navigator==2.0.4
 anaconda-project==0.8.3
 anyio==3.6.2
-AnyQt @ file:///tmp/build/80754af9/anyqt_1620308448022/work
+#AnyQt @ file:///tmp/build/80754af9/anyqt_1620308448022/work
 appdirs==1.4.4
 appnope==0.1.0
 appscript==1.0.1
@@ -25,10 +25,10 @@ Automat==20.2.0
 ax-platform==0.2.0
 Babel==2.7.0
 backcall==0.1.0
-backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
+#backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
 backports.os==0.1.1
 backports.shutil-get-terminal-size==1.0.0
-backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
+#backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
 backports.weakref==1.0.post1
 bar-chart-race==0.1.0
 beautifulsoup4==4.8.0
@@ -45,7 +45,7 @@ botorch==0.5.0
 Bottleneck==1.2.1
 branca==0.5.0
 Brotli==1.0.9
-CacheControl @ file:///tmp/build/80754af9/cachecontrol_1594058963164/work
+#CacheControl @ file:///tmp/build/80754af9/cachecontrol_1594058963164/work
 cachetools==4.2.1
 catalogue==1.0.2
 category-encoders==2.5.0
@@ -65,10 +65,10 @@ colorlover==0.3.0
 commonmark==0.9.1
 conda==4.13.0
 conda-build==3.18.9
-conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
-conda-package-handling @ file:///opt/concourse/worker/volumes/live/d106838d-eaa7-40fd-5437-9d95a7db5458/volume/conda-package-handling_1618262135990/work
-conda-repo-cli @ file:///tmp/build/80754af9/conda-repo-cli_1620168426516/work
-conda-token @ file:///tmp/build/80754af9/conda-token_1620076980546/work
+#conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
+#conda-package-handling @ file:///opt/concourse/worker/volumes/live/d106838d-eaa7-40fd-5437-9d95a7db5458/volume/conda-package-handling_1618262135990/work
+#conda-repo-cli @ file:///tmp/build/80754af9/conda-repo-cli_1620168426516/work
+#conda-token @ file:///tmp/build/80754af9/conda-token_1620076980546/work
 conda-verify==3.4.2
 confection==0.0.3
 configparser==5.0.2
@@ -96,8 +96,8 @@ databricks-cli==0.17.4
 decorator==4.4.0
 deepface==0.0.75
 defusedxml==0.6.0
-dictdiffer @ file:///tmp/build/80754af9/dictdiffer_1594059095757/work
-dill @ file:///tmp/build/80754af9/dill_1623919422540/work
+#dictdiffer @ file:///tmp/build/80754af9/dictdiffer_1594059095757/work
+#dill @ file:///tmp/build/80754af9/dill_1623919422540/work
 distlib==0.3.2
 distributed==2.5.2
 distro==1.5.0
@@ -114,7 +114,7 @@ etils==0.9.0
 evidently==0.2.5
 extract-msg==0.23.1
 fanalysis==0.0.1
-fast-histogram @ file:///opt/concourse/worker/volumes/live/9c0d6ae4-54c4-4021-5601-d465dfc5ba09/volume/fast-histogram_1614080065096/work
+#fast-histogram @ file:///opt/concourse/worker/volumes/live/9c0d6ae4-54c4-4021-5601-d465dfc5ba09/volume/fast-histogram_1614080065096/work
 fastapi==0.92.0
 fastcache==1.1.0
 fastjsonschema==2.16.2
@@ -140,9 +140,9 @@ gin-config==0.5.0
 gitdb==4.0.10
 GitPython==3.1.30
 glob2==0.7
-glue-core @ file:///opt/concourse/worker/volumes/live/8a4f03a0-e830-43b6-5651-f6d25226c359/volume/glue-core_1614166675945/work
+#glue-core @ file:///opt/concourse/worker/volumes/live/8a4f03a0-e830-43b6-5651-f6d25226c359/volume/glue-core_1614166675945/work
 glue-vispy-viewers==0.12.2
-glueviz @ file:///opt/concourse/worker/volumes/live/47d0249f-f4c3-43ed-4030-4f1192df1324/volume/glueviz_1600555699659/work
+#glueviz @ file:///opt/concourse/worker/volumes/live/47d0249f-f4c3-43ed-4030-4f1192df1324/volume/glueviz_1600555699659/work
 gmpy2==2.0.8
 google-api-core==2.11.0
 google-api-python-client==2.69.0
@@ -282,7 +282,7 @@ openpyxl==3.0.0
 openTSNE==0.3.11
 opt-einsum==3.3.0
 optuna==3.1.0
-orange-canvas-core @ file:///tmp/build/80754af9/orange-canvas-core_1594066201346/work
+#orange-canvas-core @ file:///tmp/build/80754af9/orange-canvas-core_1594066201346/work
 orange-widget-base==4.0.1
 Orange3==3.23.1
 packaging==21.3
@@ -362,7 +362,7 @@ pypandoc==1.10
 pyparsing==2.4.2
 PyPDF2==1.26.0
 pyperclip==1.8.2
-pyqtgraph @ file:///tmp/build/80754af9/pyqtgraph_1594064840332/work
+#pyqtgraph @ file:///tmp/build/80754af9/pyqtgraph_1594064840332/work
 pyrsistent==0.15.4
 PySocks==1.7.1
 pystan==2.19.1.1
@@ -375,7 +375,7 @@ pytest-openfiles==0.4.0
 pytest-remotedata==0.3.2
 python-dateutil==2.8.2
 python-Levenshtein==0.20.8
-python-louvain @ file:///tmp/build/80754af9/python-louvain_1612304551119/work
+#python-louvain @ file:///tmp/build/80754af9/python-louvain_1612304551119/work
 python-pptx==0.6.18
 python-slugify==4.0.1
 pytz==2019.3
